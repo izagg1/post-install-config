@@ -176,6 +176,6 @@ Now go to "Help Topics" and add the following help topics:
 - Equipment Request
 - Password Reset
   
-Congratulations! You ha1he next one we will explore tickets and the ticket lifecycle (link to that is listed below)
+Congratulations!Next we will explore tickets and the ticket lifecycle (link to that is listed below)
   
 - [osTicket: Ticket Lifecycle Examples](https://github.com/izagg1/ticket-lifecycle)
